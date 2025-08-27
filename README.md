@@ -23,6 +23,8 @@
 
 ## 🔧 Configuration
 
+
+[![Watch the video](https://img.youtube.com/vi/6vhAYh53v4w/0.jpg)](https://youtu.be/6vhAYh53v4w) <br>
 The app supports various configuration options through the UI:
 
 - **Prompt Enhancement**: Improve your text prompts with AI
