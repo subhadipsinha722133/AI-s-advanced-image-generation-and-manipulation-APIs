@@ -25,11 +25,12 @@ from services.erase_foreground import erase_foreground
 
 # Configure Streamlit page
 st.set_page_config(
-    page_title="AdSnap Studio",
+    page_title="🤖AI Image Generation and Editing Web Application",
     page_icon="🎨",
     layout="wide",
     initial_sidebar_state="expanded"
 )
+
 
 # Load environment variables
 print("Loading environment variables...")
@@ -139,13 +140,15 @@ def auto_check_images(status_container):
     return False
 
 def main():
-    st.title("AdSnap Studio")
+    st.title("AI Image Generation and Editing Web Application ")
+   
     initialize_session_state()
     
     # Sidebar for API key
     with st.sidebar:
         st.header("Settings")
         api_key = st.text_input("Enter your API key:", value=st.session_state.api_key if st.session_state.api_key else "", type="password")
+        st.header("Made By Subhadip 😎")
         if api_key:
             st.session_state.api_key = api_key
 
