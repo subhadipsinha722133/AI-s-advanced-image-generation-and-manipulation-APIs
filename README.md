@@ -9,6 +9,8 @@
 - 💾 Easy image download
 
 
+## Live Demo
+
 ## 💡 Usage
 
 1. Enter a product description or upload an image
