@@ -24,6 +24,13 @@
 4. Click "Generate Ad" to create your images
 5. Download the results
 
+
+<img width="480" height="250" src="https://github.com/subhadipsinha722133/AI-s-advanced-image-generation-and-manipulation-APIs/blob/main/demo1.gif">
+
+<img width="480" height="250" src="https://github.com/subhadipsinha722133/AI-s-advanced-image-generation-and-manipulation-APIs/blob/main/demo2.gif">
+
+
+
 ## 🔧 Configuration
 
 
