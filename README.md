@@ -25,8 +25,8 @@
 5. Download the results
 
 
-<img width="480" height="250" src="https://github.com/subhadipsinha722133/AI-s-advanced-image-generation-and-manipulation-APIs/blob/main/demo1.gif"><spam>
-<img width="480" height="250" src="https://github.com/subhadipsinha722133/AI-s-advanced-image-generation-and-manipulation-APIs/blob/main/demo2.gif"></spam>
+<img width="580" height="300" src="https://github.com/subhadipsinha722133/AI-s-advanced-image-generation-and-manipulation-APIs/blob/main/demo1.gif"><spam>
+<img width="580" height="300" src="https://github.com/subhadipsinha722133/AI-s-advanced-image-generation-and-manipulation-APIs/blob/main/demo2.gif"></spam>
 
 
 
