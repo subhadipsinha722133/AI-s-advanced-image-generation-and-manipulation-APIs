@@ -10,6 +10,7 @@
 
 
 ## Live Demo
+🔥[DEMO](https://ai-s-advanced-image-generation-and-manipulation-apis-peuokqlnx.streamlit.app/)
 
 ## 💡 Usage
 
